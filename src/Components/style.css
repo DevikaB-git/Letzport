@@ -1,0 +1,15 @@
+.wrapper{
+    border-bottom: 1px solid black;
+  display: inline-block;
+  line-height:50;
+  padding-bottom: 30px;
+  width: 500px;
+  
+}
+.wrapper2{
+    border-bottom: 1px solid black;
+  display: inline-block;
+  line-height:50;
+  padding-bottom: 30px;
+  width: 500px;
+  }
